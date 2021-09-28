@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Practica 2: Login infernal =)</h1>
+        <h1>Practica 2: Login infernal aeaeeaaeaeae</h1>
     </body>
 </html>
