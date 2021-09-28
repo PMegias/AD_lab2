@@ -1,4 +1,4 @@
-package com.mycompany.lab2.resources;
+package servlets.com.mycompany.lab2.resources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

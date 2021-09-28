@@ -12,6 +12,13 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Practica 2: Login infernal aeaeeaaeaeae</h1>
+        <h1>Practica 2: Login infernal =)</h1>
+        <form action="login" >
+            <label>User ID: <input type="text" name="user" >  </label>
+            <label>Passwd: <input type="text" name="passwd" >  </label>
+            
+            <input type="submit" value="Login">
+            
+        </form>
     </body>
 </html>

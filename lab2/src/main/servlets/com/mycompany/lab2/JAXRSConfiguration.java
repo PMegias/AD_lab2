@@ -1,4 +1,4 @@
-package com.mycompany.lab2;
+package servlets.com.mycompany.lab2;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
